@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Insuredmine Assessment
 
@@ -36,3 +37,6 @@ npm start
 
 
 
+=======
+# insuredminassesment
+>>>>>>> 493fbb8209e584342e7f7e6348a61e899aea1f95
