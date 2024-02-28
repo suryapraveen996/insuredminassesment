@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Insuredmine Assessment
 
 
@@ -33,10 +31,3 @@ npm start
 <img width="775" alt="image" src="https://github.com/suryapraveen996/insuredmine/assets/47098528/5b6cc6c4-18e3-4226-bca2-ff0cc73218e9">
 <img width="775" alt="image" src="https://github.com/suryapraveen996/insuredmine/assets/47098528/79251ed3-5837-4aef-ba5a-0e8d1eadc364">
 <img width="1371" alt="image" src="https://github.com/suryapraveen996/insuredmine/assets/47098528/a7857693-425c-45b7-98d4-3e1cb43a85d6">
-
-
-
-
-=======
-# insuredminassesment
->>>>>>> 493fbb8209e584342e7f7e6348a61e899aea1f95
